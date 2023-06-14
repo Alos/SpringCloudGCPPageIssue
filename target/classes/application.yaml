@@ -1,6 +1,0 @@
-spring:
-  cloud:
-    gcp:
-      spanner:
-        database: test-database
-        instance-id:  test-instance
